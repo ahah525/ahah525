@@ -7,11 +7,6 @@
 <a href="mailto:ahah2519@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ahah2519@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahah525&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahah525&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <br>
 <h2 align="center">🛠 Tech Stacks 🛠</h2>
 <p align="center">
@@ -26,7 +21,9 @@
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahah525&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahah525&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
